@@ -640,7 +640,7 @@ $(document).ready(function() {
 	var devRPiPWM = ['ws281x'];
 	var devRPiGPIO = ['piblaster'];
 
-	var devNET = ['atmoorb', 'cololight', 'fadecandy', 'philipshue', 'nanoleaf', 'tinkerforge', 'tpm2net', 'udpe131', 'udpartnet', 'udph801', 'udpraw', 'wled', 'yeelight'];
+	var devNET = ['atmoorb', 'cololight', 'fadecandy', 'philipshue', 'nanoleaf', 'tinkerforge_v1', 'tinkerforge_v2', 'tinkerforge', 'tpm2net', 'udpe131', 'udpartnet', 'udph801', 'udpraw', 'wled', 'yeelight'];
 	var devUSB = ['adalight', 'dmx', 'atmo', 'hyperionusbasp', 'lightpack', 'paintpack', 'rawhid', 'sedu', 'tpm2', 'karate'];
 
   var optArr = [[]];
